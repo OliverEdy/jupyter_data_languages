@@ -92,3 +92,4 @@ image_output/*.png
 tex/
 
 .vscode
+.DS_Store
